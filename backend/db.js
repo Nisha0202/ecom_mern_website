@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const pass = 'mongodb+srv://Admin:Admin0202@cluster0.ydoby6v.mongodb.net/mern_website_burger_bro';
+const pass = 'url';
 const Food = require('./models/Food');
 const connectToMongo = async () => {
   try {
