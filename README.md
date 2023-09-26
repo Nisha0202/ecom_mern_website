@@ -12,7 +12,7 @@ The features we worked to achieve on our website:
 
 #Auth token: The website uses an auth token system to ensure the security and privacy of the customers’ accounts. An auth token is a unique code that identifies them as valid users and grants them access to the services. They don’t need to worry about remembering their password or entering it every time they log in. The website will generate and store an auth token for them automatically when they sign up or log in and they can be logged in with a password until they have logged out themselves.
 
-#Admin access: Admin can access a specific page where you can manage the orders, and settings of our website. Admin can update delivery status as needed. To access the admin dashboard, admin needs to log in with admin credentials that we will provide you. 
+#Admin access: Admin can access a specific page where you can manage the orders, add menu and settings of our website. Admin can update delivery status as needed and add new items and burger photo on menu. To access the admin dashboard, admin needs to log in with admin credentials that is provided. 
 
 #Easy Search option: Users can search for their preferable thing to find burgers faster from the menu. It's easy, convenient and fast.
 
@@ -22,3 +22,4 @@ The features we worked to achieve on our website:
 ![Screenshot (1198)](https://github.com/Nisha0202/ecom_mern_website/assets/99580632/019b0dda-fa5d-4b77-88c6-608dd0a9ea91)
 ![Screenshot (1199)](https://github.com/Nisha0202/ecom_mern_website/assets/99580632/25ec1b88-37ab-4b78-b2b0-d16b1e70bf94)
 ![Screenshot (1200)](https://github.com/Nisha0202/ecom_mern_website/assets/99580632/cbfce1f1-07f6-4ec2-b199-5271cff33b1d)
+![Screenshot (1201)](https://github.com/Nisha0202/ecom_mern_website/assets/99580632/e251c841-d9fe-4494-9e32-85cf008d779f)
